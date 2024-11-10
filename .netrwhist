@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/robertmccrary'
+let g:netrw_dirhist_7='/Users/robertmccrary/Desktop/Projects/JavaScript/latexnotes/src/app'
+let g:netrw_dirhist_6='/Users/robertmccrary/Desktop/Projects/JavaScript/latexnotes/src'
+let g:netrw_dirhist_5='/Users/robertmccrary/Desktop/Projects/JavaScript/latexnotes'
+let g:netrw_dirhist_4='/Users/robertmccrary'
+let g:netrw_dirhist_3='/Users/robertmccrary/Desktop/Projects/python/FrequencyCount'
+let g:netrw_dirhist_2='/Users/robertmccrary'
+let g:netrw_dirhist_1='/Users/robertmccrary/.docker'
+let g:netrw_dirhist_0='/Users/robertmccrary'
+let g:netrw_dirhist_9='/Users/robertmccrary/.vim/plugged/fzf.vim'
